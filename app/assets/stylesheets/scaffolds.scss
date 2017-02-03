@@ -2,7 +2,7 @@ body {
   background-color: #fff;
   color: #333;
   font-family: verdana, arial, helvetica, sans-serif;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 18px;
 }
 
@@ -30,7 +30,6 @@ a {
     background-color: #000;
   }
 }
-
 div {
   &.field, &.actions {
     margin-bottom: 10px;
